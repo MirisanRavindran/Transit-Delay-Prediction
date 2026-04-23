@@ -1,0 +1,10 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+.kaggle/
+reports/figures/*.png
+!reports/figures/.gitkeep
